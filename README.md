@@ -1,4 +1,4 @@
-Nombre: Jose Orellana Flores
+Nombre del proyecto: hola mundo PHP
 
 Descripcion:
 este codigo en PHP lo que hace es mostrar un texto donde dice "hola mundo soy Jose Orellana Flores"
